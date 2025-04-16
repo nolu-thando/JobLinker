@@ -9,6 +9,11 @@
     "test": "ng test",
     "serve:ssr:client": "node dist/client/server/server.mjs"
   },
+  "scriptsjs": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+
   "private": true,
   "dependencies": {
     "@angular/cdk": "^19.2.9",
