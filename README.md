@@ -63,5 +63,7 @@ Unemployment among youth is a critical issue in many regions. **JobLinker** aims
 ### 1. Clone the Repository
 
 ```bash
-git clone https:https://github.com/nolu-thando/JobLinker.git
-cd youthjobconnect
+git clone https://github.com/nolu-thando/JobLinker.git
+
+
+
